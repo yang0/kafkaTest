@@ -1,0 +1,5 @@
+{
+    "java.dependency.packagePresentation": "flat",
+    "java.maven.downloadSources": true,
+    "java.saveActions.organizeImports": true
+}
